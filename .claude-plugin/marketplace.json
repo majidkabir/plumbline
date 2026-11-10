@@ -1,0 +1,14 @@
+{
+  "name": "plumbline",
+  "description": "A gated workflow that takes software requirements to reviewed pull requests, one human-approved deliverable at a time.",
+  "owner": {
+    "name": "Majid Ghafouri"
+  },
+  "plugins": [
+    {
+      "name": "plumbline",
+      "source": "./plugins/plumbline",
+      "description": "Requirements analysis with review gates: register, quality scoring, clarification rounds and a signed-off baseline."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plumbline",
+  "displayName": "Plumbline",
+  "version": "0.1.0",
+  "description": "A gated workflow that takes software requirements to reviewed pull requests. Every step writes one deliverable, opens it as a PR and stops; merging the PR is the approval.",
+  "author": {
+    "name": "Majid Ghafouri"
+  },
+  "repository": "https://github.com/majidkabir/plumbline",
+  "keywords": ["requirements", "architecture", "workflow", "review", "sdlc"]
+}

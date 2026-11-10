@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "plumbline": {
+      "source": {
+        "source": "github",
+        "repo": "majidkabir/plumbline"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "plumbline@plumbline": true
+  }
+}

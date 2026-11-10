@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "UserPromptExpansion": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/scripts/gate-hook.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
